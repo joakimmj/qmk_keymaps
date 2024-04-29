@@ -1,0 +1,4 @@
+
+go to qmk_firmware
+compile: qmk compile -kb crkbd -km joakimmj
+flash: qmk flash -kb crkbd -km joakimmj
