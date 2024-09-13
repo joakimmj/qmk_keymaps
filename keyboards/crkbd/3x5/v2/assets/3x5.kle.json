@@ -1,0 +1,314 @@
+[
+  {
+    "css": "/*Layer 0*/\r\n.keylabel0, .keylabel1, .keylabel2, .keylabel9 {\r\n    color: #000000 !important;\r\n}\r\n    \r\n/*Layer 1*/\r\n.keylabel3, .keylabel4, .keylabel10 {\r\n    color: #1CC100 !important; \r\n    font-size: 10px;\r\n}\r\n        \r\n/*Layer 2*/\r\n.keylabel5 {\r\n    color: #f26d6d !important;\r\n    font-size: 10px;\r\n}\r\n\r\n/*Layer 3*/\r\n.keylabel6, .keylabel7, .keylabel8, .keylabel11 { \r\n    color: #00b9FF !important; \r\n    font-size: 10px;\r\n}\r\n\r\n/*Hold*/\r\n.keylabel9, .keylabel10, .keylabel11 {\r\n    font-size: 9px !important;\r\n}\r\n"
+  },
+  [
+    {
+      "x": 3
+    },
+    "E\nF3\n\n\n\n\n3\n#",
+    {
+      "x": 7,
+      "fa": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2
+      ]
+    },
+    "I\nMsBtn2\n\n\n\n\n8\n*"
+  ],
+  [
+    {
+      "y": -0.9,
+      "x": 2,
+      "f": 3
+    },
+    "W\nF2\n\n\n\n\n2\n@"
+  ],
+  [
+    {
+      "y": -1,
+      "x": 4,
+      "f": 3
+    },
+    "R\nF4\n\n\n\n\n4\n$",
+    {
+      "x": 5,
+      "f": 3
+    },
+    "U\nMsBtn1\n\n\n\n\n7\n&",
+    {
+      "x": 1,
+      "f": 3
+    },
+    "O\nMenu\n\n\n\n\n9\n("
+  ],
+  [
+    {
+      "y": -0.9,
+      "x": 5,
+      "f": 3
+    },
+    "T\nF5\n\n\n\n\n5\n%"
+  ],
+  [
+    {
+      "y": -1,
+      "x": 9,
+      "f": 3
+    },
+    "Y\nPrtSc\n\n\n\n\n6\n^"
+  ],
+  [
+    {
+      "y": -0.9,
+      "a": 7
+    },
+    "",
+    {
+      "x": 12,
+      "a": 4,
+      "f": 3
+    },
+    "P\n\n\n\n\n\n0\n)",
+    {
+      "a": 7
+    },
+    ""
+  ],
+  [
+    {
+      "y": -1,
+      "x": 1,
+      "a": 4,
+      "f": 3
+    },
+    "Q\nF1\n\n\n\n\n1\n!"
+  ],
+  [
+    {
+      "y": -0.30000000000000004,
+      "x": 3,
+      "f": 3
+    },
+    "D\nF8\n\n\n\n\n[\n{",
+    {
+      "x": 7,
+      "f": 3
+    },
+    "K\nMs▲\n\n\n\n\n▲\n▲"
+  ],
+  [
+    {
+      "y": -0.8999999999999999,
+      "x": 2,
+      "f": 3
+    },
+    "S\nF7\n\n\n\n\n=\n+",
+    {
+      "x": 1,
+      "f": 3,
+      "n": true
+    },
+    "F\nF9\n\n\n\n\n]\n}",
+    {
+      "x": 5,
+      "f": 3,
+      "n": true
+    },
+    "J\nMs▼\n\n\n\n\n▼\n▼",
+    {
+      "x": 1,
+      "f": 3
+    },
+    "L\nMs▶\n\n\n\n\n▶\n▶"
+  ],
+  [
+    {
+      "y": -0.8999999999999999,
+      "x": 5,
+      "f": 3
+    },
+    "G\nF10\n\n\n\n\n'\n\"",
+    {
+      "x": 3,
+      "f": 3
+    },
+    "H\nMs◀\n\n\n\n\n◀\n◀"
+  ],
+  [
+    {
+      "y": -0.8999999999999999,
+      "a": 7
+    },
+    "",
+    {
+      "a": 0,
+      "f": 3
+    },
+    "A\nF6\n\n\n⊞\n≡\n`\n~\n\n\n\n≡",
+    {
+      "x": 11,
+      "f": 3
+    },
+    ":\n\n;\n\n⊞\n≡\n-\n_\n\n\n\n≡",
+    {
+      "a": 7
+    },
+    ""
+  ],
+  [
+    {
+      "y": -0.2999999999999998,
+      "x": 3,
+      "a": 4,
+      "f": 3
+    },
+    "C\n\n\n\n\n\nÆ",
+    {
+      "x": 7,
+      "f": 3
+    },
+    ",\nMsWh▲\n<\n\n\n\nPgUp"
+  ],
+  [
+    {
+      "y": -0.8999999999999999,
+      "x": 2,
+      "f": 3
+    },
+    "X\nF12\n\n\n\n\nIns",
+    {
+      "x": 1,
+      "f": 3
+    },
+    "V\n\n\n\n\n\nØ",
+    {
+      "x": 5,
+      "f": 3
+    },
+    "M\nMsWh▲\n\n\n\n\nPgDn",
+    {
+      "x": 1,
+      "f": 3
+    },
+    ".\nMsWh▶\n>\n\n\n\nEnd"
+  ],
+  [
+    {
+      "y": -0.8999999999999999,
+      "x": 5,
+      "f": 3
+    },
+    "B\n\n\n\n\n\nÅ",
+    {
+      "x": 3,
+      "f": 3
+    },
+    "N\nMsWh◀\n\n\n\n\nHome"
+  ],
+  [
+    {
+      "y": -0.8999999999999999,
+      "a": 7
+    },
+    "",
+    {
+      "a": 4,
+      "f": 3
+    },
+    "Z\nF11",
+    {
+      "x": 11,
+      "f": 3
+    },
+    "/\n\n?\n\n\n\n\\\n|",
+    {
+      "a": 7
+    },
+    ""
+  ],
+  [
+    {
+      "y": -0.20000000000000018,
+      "x": 3.5,
+      "a": 0
+    },
+    "Esc\n\n\n\nAlt",
+    {
+      "x": 6
+    },
+    "Enter\n\n\n\n⇧"
+  ],
+  [
+    {
+      "f": 3
+    },
+    "L0\nL3\n\n\nL0\nL3\nL1\nL2\n\n\n\nL1",
+    {
+      "x": 0.10000000000000009
+    },
+    "Tap\n\n\n\nHold"
+  ],
+  [
+    {
+      "y": -0.5999999999999996,
+      "x": 12,
+      "a": 5,
+      "w": 3,
+      "h": 0.5,
+      "d": true
+    },
+    "https://github.com/joakimmj"
+  ],
+  [
+    {
+      "r": 15,
+      "rx": 4.5,
+      "ry": 4.1,
+      "y": -1,
+      "c": "#a7fb99",
+      "a": 0
+    },
+    "Del\n\n\n\nL1"
+  ],
+  [
+    {
+      "r": 30,
+      "rx": 5.4,
+      "ry": 4.3,
+      "y": -1.5,
+      "x": 0.09999999999999964,
+      "c": "#cccccc",
+      "h": 1.5
+    },
+    "Bksp\n\n\n\nCtrl"
+  ],
+  [
+    {
+      "r": -30,
+      "rx": 9.6,
+      "y": -1.5,
+      "x": -1.0999999999999996,
+      "c": "#ade8ff",
+      "h": 1.5
+    },
+    "Space\n\n\n\nL3"
+  ],
+  [
+    {
+      "r": -15,
+      "rx": 10.5,
+      "ry": 4.1,
+      "y": -1,
+      "x": -1,
+      "c": "#f26d6d"
+    },
+    "Tab\n\n\n\nL2"
+  ]
+]

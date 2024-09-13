@@ -2,14 +2,25 @@
 
 ## [3x5](./3x5)
 
-![Keymap layout](./3x5/assets/3x5.png)
+### V1
 
-> Image is generated using www.keyboard-layout-editor.com ([raw data](./3x5/assets/3x5.kle.json))
+![Keymap layout](./3x5/v1/assets/3x5.png)
 
-For testing the layout with [VIA](https://usevia.app/), use [3x5.via.json](./3x5/assets/3x5.via.json).
+> Image is generated using www.keyboard-layout-editor.com ([raw data](./3x5/v1/assets/3x5.kle.json))
 
-If wanting to flash the firmware, the `.hex` file can be found [here](./3x5/assets/crkbd_rev1_joakimmj-3x5.hex).
+For testing the layout with [VIA](https://usevia.app/), use [3x5.via.json](./3x5/v1/assets/3x5.via.json).
 
+If wanting to flash the firmware, the `.hex` file can be found [here](./3x5/v1/assets/crkbd_rev1_joakimmj-3x5.hex).
+
+### V2
+
+![Keymap layout](./3x5/v2/assets/3x5.png)
+
+> Image is generated using www.keyboard-layout-editor.com ([raw data](./3x5/v2/assets/3x5.kle.json))
+
+For testing the layout with [VIA](https://usevia.app/), use [3x5.via.json](./3x5/v2/assets/3x5.via.json).
+
+If wanting to flash the firmware, the `.hex` file can be found [here](./3x5/v2/assets/crkbd_rev1_joakimmj-3x5.hex).
 
 ## [3x5 Home Row Mods](./3x5-home-row-mods)
 
