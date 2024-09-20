@@ -82,11 +82,11 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
   [2] = LAYOUT_split_3x6_3( 
   //,-----------------------------------------------------.                    ,-----------------------------------------------------.
-      XXXXXXX, S(KC_1), S(KC_2), S(KC_3), S(KC_4), S(KC_5),                      S(KC_6), S(KC_7), S(KC_8), S(KC_9), S(KC_0), XXXXXXX,
+      XXXXXXX, S(KC_1), S(KC_2), S(KC_3), S(KC_4), S(KC_5),                      S(KC_6), S(KC_7), S(KC_8), S(KC_9), S(KC_0), DT_PRNT,
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
-      XXXXXXX,   S_GRV,   S_EQL,  S_LBRC,  S_RBRC,  S_QUOT,                      KC_LEFT, KC_DOWN,   KC_UP, KC_RGHT,  S_MINS, XXXXXXX,
+      XXXXXXX,   S_GRV,   S_EQL,  S_LBRC,  S_RBRC,  S_QUOT,                      KC_LEFT, KC_DOWN,   KC_UP, KC_RGHT,  S_MINS,   DT_UP,
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
-      XXXXXXX, XXXXXXX,  KC_INS,   AG_AE,   AG_OE,   AG_AA,                      KC_MPRV, KC_MSTP, KC_MPLY, KC_MNXT,  S_BSLS, XXXXXXX,
+      XXXXXXX, XXXXXXX,  KC_INS,   AG_AE,   AG_OE,   AG_AA,                      KC_MPRV, KC_MSTP, KC_MPLY, KC_MNXT,  S_BSLS, DT_DOWN,
   //|--------+--------+--------+--------+--------+--------+--------|  |--------+--------+--------+--------+--------+--------+--------|
                                           _______, _______, _______,    _______, _______, _______
                                       //`--------------------------'  `--------------------------'
